@@ -1,5 +1,5 @@
 /**************************************************
-* sub03-01-top(�붿씠�몃떇 �대━��)
+* sub03-01-top
 **************************************************/
 .sub03-01-top-view-video { width:100vw; height:56.25vw; min-height:100vh; min-width:210vh; position:absolute; left:50%; top:50%; transform:translate(-50%, -50%); }
 
@@ -131,7 +131,7 @@
 .sub03-01-cont05 .pc-only { display:block; }
 .sub03-01-cont05 .mo-only { display:none; }
 .sub03-01-cont05 .titlebox h2 { margin-bottom:2.5rem; }
-.sub03-01-cont05 .d-frbox:before { content:"1:1"; position:absolute; right:-11%; top:-16%; opacity:0.07; color:#616161; font-size:11.75rem; font-family:'Noto Serif KR', serif; font-weight:700; }
+.sub03-01-cont05 .d-frbox:before { content:"1:1"; position:absolute; right:-11%; top:-16%; opacity:0.07; color:#616161; font-size:11.75rem; font-weight:700; }
 .sub03-01-cont05 .d-frbox .imgbox { overflow:hidden; border-radius:0.625rem 9.375rem 0.625rem 0.625rem; }
 @media (max-width:1679px) {
 	.sub03-01-cont05 .d-frbox:before { right:-3%; }
@@ -573,7 +573,7 @@
 }
 
 /**************************************************
-* sub03-03-top(寃�踰꾩꽢, �묒옄, ��)
+* sub03-03-top
 **************************************************/
 .sub03-03-top-view { background:url("../img/sub01_03_img01.jpg") 60% 50%/cover no-repeat; }
 .sub03-03-top-view-bg { background:url("../img/sub01_03_img01.jpg") 60% 50% / cover no-repeat; }
@@ -872,10 +872,10 @@
 }
 
 /**************************************************
-* sub03-04-top(�쒓�醫� �꾧렇�ㅼ뒪)
+* sub03-04-top
 **************************************************/
-.sub03-04-top-view { background:url("../img/sub03_04_img01.jpg") 60% 50%/cover no-repeat; }
-.sub03-04-top-view-bg { background:url("../img/sub03_04_img01.jpg") 60% 50% / cover no-repeat; }
+.sub03-04-top-view { background:url("../img/sub01_03_img01.jpg") 60% 50%/cover no-repeat; }
+.sub03-04-top-view-bg { background:url("../img/sub01_03_img01.jpg") 60% 50% / cover no-repeat; }
 
 /**************************************************
 * sub03-04-cont01
@@ -1259,7 +1259,7 @@
 }
 
 /**************************************************
-* sub03-06-top(伊먯젚, �명룊�щ쭏洹�, 鍮꾨┰醫�)
+* sub03-06-top
 **************************************************/
 .sub03-06-top-view { background:url("../img/sub01_03_img01.jpg") 60% 50%/cover no-repeat; }
 .sub03-06-top-view-bg { background:url("../img/sub01_03_img01.jpg") 60% 50% / cover no-repeat; }

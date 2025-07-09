@@ -625,7 +625,7 @@ $('.equipment-slide01').each(function(i) {
 	const thisID = $(this).attr('id');
 	var laserPagiList;
 	if(thisID == 'sub01-01-cont03-slide') {
-		laserPagiList = ['백반증','색소·홍조','여드름','리프팅','흉터·모공','문신제거·튼살','제모','안면윤곽','스킨케어'];
+		laserPagiList = ['백반증','색소·홍조','여드름','리프팅','흉터·모공','문신제거·튼살','제모','스킨케어'];
 	}
 
 	Swipers10[i] = new Swiper('#'+thisID, {

@@ -17,7 +17,7 @@ a[name=fsearchpos] { position:relative; display:block; margin-top:100vh; }
 #bo_gall { position:relative; background-color:#fff; }
 
 .view .sub01-04-top-view .txtbox h3 { font-size:1.5rem; }
-.view .sub01-04-top-view .txtbox h2 { font-size:2.8125rem; font-family:'Noto Serif KR', serif; font-weight:500; word-break:keep-all; }
+.view .sub01-04-top-view .txtbox h2 { font-size:2.8125rem;  font-weight:500; word-break:keep-all; }
 
 .view .sub01-04-top-view .bo_info { margin-top:2.5rem; color:#fff; z-index:1; opacity:0.5; }
 

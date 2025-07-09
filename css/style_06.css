@@ -1,9 +1,9 @@
 /**************************************************
-* sub07-01-top(臾몄떊/�됲꽣 �대━��)
+* sub07-01-top
 **************************************************/
 
-.sub07-01-top-view { background:url("../img/sub07_01_img01_231101.png") 60% 50%/cover no-repeat; }
-.sub07-01-top-view-bg { background:url("../img/sub07_01_img01_231101.png") 60% 50% / cover no-repeat; }
+.sub07-01-top-view { background:url("../img/sub01_03_img01.jpg") 60% 50%/cover no-repeat; }
+.sub07-01-top-view-bg { background:url("../img/sub01_03_img01.jpg") 60% 50% / cover no-repeat; }
 
 .sub07-01-top-view-video { width:100vw; height:56.25vw; min-height:100vh; min-width:210vh; position:absolute; left:50%; top:50%; transform:translate(-50%, -50%); }
 
@@ -241,7 +241,7 @@
 }
 
 /**************************************************
-* sub07-02-top(臾몄떊�쒓굅 �대━��)
+* sub07-02-top
 **************************************************/
 /*
 .sub07-02-top-view { background:url("../img/sub07_02_img01.jpg") 60% 50%/cover no-repeat; }
@@ -434,7 +434,7 @@
 }
 
 /**************************************************
-* sub07-02-new01  240304異붽�
+* sub07-02-new01  
 **************************************************/
 .sub07-02-cont-new01 { position:relative; }
 .sub07-02-cont-new01 .pc-only { display:block; }
@@ -458,7 +458,7 @@
 }
 
 /**************************************************
-* sub07-02-cont-new02  240304異붽�
+* sub07-02-cont-new02  
 **************************************************/
 .sub07-02-cont-new02 .container-cnt { padding:0 1.875rem; }
 .sub07-02-cont-new02 .titlebox h2 { margin-bottom:5rem;  }
@@ -510,7 +510,7 @@
 }
 
 /**************************************************
-* sub07-02-cont-new03  240304異붽�
+* sub07-02-cont-new03  
 **************************************************/
 .sub07-02-cont-new03 { position:relative; overflow:hidden; }
 .sub07-02-cont-new03:after { content:""; position:absolute; left:50%; top:0; width:120%; height:100%; border-bottom-left-radius:100% 60%; border-bottom-right-radius:100% 60%; background:linear-gradient(#fff, #f2f2f2); transform:translate(-50%, 0); z-index:-1; }
@@ -620,7 +620,7 @@
 }
 
 /**************************************************
-* sub07-03-top(�쇱궡 �대━��)
+* sub07-03-top
 **************************************************/
 /*
 .sub07-03-top-view { background:url("../img/sub07_03_img01.jpg") 60% 50%/cover no-repeat; }
@@ -842,7 +842,7 @@
 }
 
 /**************************************************
-* sub07-04-top(耳덈줈�대뱶 �됲꽣)
+* sub07-04-top
 **************************************************/
 .sub07-04-top-view { background:url("../img/sub07_04_img01.jpg") 60% 50%/cover no-repeat; }
 .sub07-04-top-view-bg { background:url("../img/sub07_04_img01.jpg") 60% 50% / cover no-repeat; }
@@ -952,7 +952,7 @@
 }
 
 /**************************************************
-* sub07-05-top(�섏닠 �됲꽣)
+* sub07-05-top
 **************************************************/
 .sub07-05-top-view { background:url("../img/sub07_05_img01.jpg") 60% 50%/cover no-repeat; }
 .sub07-05-top-view-bg { background:url("../img/sub07_05_img01.jpg") 60% 50% / cover no-repeat; }
@@ -1124,7 +1124,7 @@
 }
 
 /**************************************************
-* sub07-06-top(�붿긽 �됲꽣)
+* sub07-06-top
 **************************************************/
 .sub07-06-top-view { background:url("../img/sub07_06_img01_231101.png") 60% 50%/cover no-repeat; }
 .sub07-06-top-view-bg { background:url("../img/sub07_06_img01_231101.png") 30% 50% / cover no-repeat; }
@@ -1251,7 +1251,7 @@
 
 .sub07-06-cont04 .swiper-pagination { position:static; display:flex; flex-wrap:wrap; margin:0 -1.25rem -1.5rem; }
 .sub07-06-cont04 .swiper-pagination .swiper-pagination-bullet { position:relative; width:calc(33.33% - 2.5rem); height:auto; margin:0 1.25rem 1.5rem; padding-left:1.5rem; background:none; opacity:1; border-radius:0; font-size:1.5rem; color:#888; text-align:left; }
-.sub07-06-cont04 .swiper-pagination .swiper-pagination-bullet .icon-arrow03 { background-image:url("../img/icon-arrow02.png"); position:absolute; left:0; top:50%; margin-top:-0.25rem; }
+/* .sub07-06-cont04 .swiper-pagination .swiper-pagination-bullet .icon-arrow03 { background-image:url("../img/icon-arrow02.png"); position:absolute; left:0; top:50%; margin-top:-0.25rem; } */
 .sub07-06-cont04 .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active { color:#7c94c4; font-weight:600; }
 .sub07-06-cont04 .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active .icon-arrow03 { background-image:url("../img/icon-arrow03.png"); }
 
@@ -1294,7 +1294,7 @@
 }
 
 /**************************************************
-* sub07-07-top(�щ뱶由� �됲꽣)
+* sub07-07-top
 **************************************************/
 .sub07-07-top-view { background:url("../img/sub07_07_img01.jpg") 60% 50%/cover no-repeat; }
 .sub07-07-top-view-bg { background:url("../img/sub07_07_img01.jpg") 60% 50% / cover no-repeat; }
@@ -1377,7 +1377,7 @@
 /**************************************************
 * sub07-07-cont03
 **************************************************/
-.sub07-07-cont03 { background:url("../img/sub07-07-cont03-bg.png") no-repeat right bottom/auto; }
+/* .sub07-07-cont03 { background:url("../img/sub07-07-cont03-bg.png") no-repeat right bottom/auto; } */
 .sub07-07-cont03 .titlebox h2 { margin-bottom:5rem; }
 .sub07-07-cont03 .d-frbox { width:40%; }
 
@@ -1523,7 +1523,7 @@
 }
 
 /**************************************************
-* sub07-08-top(誘몃씪��)
+* sub07-08-top
 **************************************************/
 .sub07-08-top-view { background:url("../img/sub07_08_img01.jpg") 60% 50%/cover no-repeat; }
 .sub07-08-top-view-bg { background:url("../img/sub07_08_img01.jpg") 60% 50% / cover no-repeat; }
@@ -1660,7 +1660,7 @@
 .sub07-08-cont04 tr:nth-child(6) td { font-size:1.188rem; }
 .sub07-08-cont04 td { padding:20px 0; text-align:center; vertical-align:middle; }
 .sub07-08-cont04 td.bg01 { background-color:#777; color:#fff; box-shadow:0 0 10px rgba(0,0,0,0.2); }
-.sub07-08-cont04 td.bg02 { background-color:#000; color:#fff; font-weight:500; font-style:italic; font-family:'Poppins', sans-serif; }
+.sub07-08-cont04 td.bg02 { background-color:#000; color:#fff; font-weight:500; font-style:italic;  }
 .sub07-08-cont04 td.bg03 { background-color:#7c94c4; color:#fff; font-weight:600; box-shadow:0 0 10px rgba(0,0,0,0.2); }
 .sub07-08-cont04 td.bg04 { background-color:#f1f1f1; color:#777; box-shadow:0 0 10px rgba(0,0,0,0.2); }
 .sub07-08-cont04 td.bg05 { background-color:#fff; font-weight:600; box-shadow:0 0 10px rgba(0,0,0,0.2); }
@@ -1744,7 +1744,7 @@
 }
 
 /**************************************************
-* sub07-09-top(�쇱궡_ver2)
+* sub07-09-top
 **************************************************/
 .sub07-09-top-view { background:url("../img/sub07_09_img01.jpg") 60% 50%/cover no-repeat; }
 .sub07-09-top-view-bg { background:url("../img/sub07_09_img01.jpg") 60% 50% / cover no-repeat; }
@@ -2111,7 +2111,7 @@
 
 
 /**************************************************
-* �쒕え
+
 **************************************************/
 .sub-h01-top-view::before { content:""; display: block; width: 100%; height:100%; background: rgba(0,0,0,0.1);position: absolute; top: 0; left: 0; z-index: 1;}    
 .sub-top-view.sub-h01-top-view .txtbox { z-index:2; } 
@@ -2171,7 +2171,7 @@
 /**************************************************
 * subHair-01-cont03
 **************************************************/
-.subHair-01-cont03 { position:relative;  background:url("../img/subHair-01-cont03-bg.png") no-repeat right top/auto; }
+/* .subHair-01-cont03 { position:relative;  background:url("../img/subHair-01-cont03-bg.png") no-repeat right top/auto; } */
 .subHair-01-cont03 .container-sm { padding:0 1.875rem; }
 
 .subHair-01-cont03 .pc-only { display:block; }
@@ -2180,7 +2180,7 @@
 .subHair-01-cont03 .titlebox .text-line { border-bottom:1px solid rgba(19,19,19,0.3); }
 
 @media (max-width:991px) {
-	.subHair-01-cont03 {background: url("../img/subHair-01-cont03-bg-m.png") no-repeat 100% 50%/ 180% }
+	/* .subHair-01-cont03 {background: url("../img/subHair-01-cont03-bg-m.png") no-repeat 100% 50%/ 180% } */
 	.subHair-01-cont03:before { top:17%; }
 	.subHair-01-cont03 .titlebox h2 { margin-bottom:0rem; }
 	

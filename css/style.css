@@ -3,7 +3,6 @@
 *
 * 1 - sub common(서브공통)
 * 2 - main
-* 3 - A2 ~ A6
 *
 **************************************************/
 
@@ -157,7 +156,7 @@
 
 .main-sect-visual .txtbox { position:absolute; top:40%; left:20%; }
 .main-sect-visual .txtbox h3 { font-size:1.875rem; font-weight:100; text-shadow:2px 2px 3px rgba(0,0,0,0.1); }
-.main-sect-visual .txtbox h2 { font-size:3.125rem; font-family:'Noto Serif KR', serif; text-shadow:2px 2px 3px rgba(0,0,0,0.1); }
+.main-sect-visual .txtbox h2 { font-size:3.125rem; text-shadow:2px 2px 3px rgba(0,0,0,0.1); }
 
 /* svg style */
 .main-visual-slide .swiper-pagination.main-slide-pagination { width:auto; height:auto; top:55%; left:20%; padding:0; }
@@ -198,7 +197,7 @@
 }
 
 /**************************************************
-* sub01-01-top(힐하우스 피부과 - 메인)
+* sub01-01-top(메인)
 **************************************************/
 .sub01-01-top-view-video { width:100vw; height:56.25vw; min-height:100vh; min-width:210vh; position:absolute; left:50%; top:50%; transform:translate(-50%, -50%); }
 .video_web { display:block; }
@@ -237,7 +236,7 @@
 .brand-value .swiper-slide .txtbox01:after { content:""; position:absolute; left:-38%; bottom:0; display:inline-block; width:0%; height:2px; background-color:#efefef; transition:all 1s; }
 .brand-value .swiper-slide.swiper-slide-active .txtbox01:after { width:80%; }
 .brand-value .swiper-slide .txtbox01 .txt01 { display:inline-block; font-size:2.625rem; font-weight:600; line-height:4.5rem; }
-.brand-value .swiper-slide .txtbox01 .txt02 { display:inline-block; font-family:'Poppins', sans-serif; font-style:italic; font-size:8.5625rem; font-weight:400; line-height:6rem; opacity:0; vertical-align:bottom; transition:opacity 1s 0.8s; }
+.brand-value .swiper-slide .txtbox01 .txt02 { display:inline-block;  font-style:italic; font-size:8.5625rem; font-weight:400; line-height:6rem; opacity:0; vertical-align:bottom; transition:opacity 1s 0.8s; }
 .brand-value .swiper-slide.swiper-slide-active .txtbox01 .txt02 { opacity:0.1; }
 .brand-value .swiper-slide .txtbox02 .txt03 { font-size:1.312rem; line-height:1.7; }
 
@@ -293,7 +292,7 @@
 
 .satisfied-menu-item:not(.hover) { z-index:0; opacity:0; visibility:hidden; transform:scale(1.05); -webkit-transform:scale(1.05); -moz-transform:scale(1.05); -ms-transform:scale(1.05); -o-transform:scale(1.05); }
 
-.main-satisfied-sect .big-num { position:absolute; font-size:6.875rem; opacity:0.2; top:18%; left:0; text-align:center; width:100%; color:#fff; font-weight:300; transition:.5s ease; font-family:'Noto Serif KR', serif; }
+.main-satisfied-sect .big-num { position:absolute; font-size:6.875rem; opacity:0.2; top:18%; left:0; text-align:center; width:100%; color:#fff; font-weight:300; transition:.5s ease;  }
 .main-satisfied-sect .big-num small { font-size:5rem; }
 .main-satisfied-sect .hover .big-num { opacity:1; }
 
@@ -812,7 +811,7 @@
 .sub01-bottom-slide > .swiper-wrapper.sub01-bottom-slide_wrapper.on > .swiper-slide { width:auto !important; }
 
 /**************************************************
-* sub01-02-top(세계속의 힐하우스)
+* sub01-02-top
 **************************************************/
 .sub01-02-top-view { background:url("../img/sub01_02_img01.jpg") 60% 50%/cover no-repeat; }
 .sub01-02-top-view-bg { background:url("../img/sub01_02_img01.jpg") 60% 50% / cover no-repeat; }
@@ -1136,7 +1135,7 @@
 }
 
 /**************************************************
-* sub01-03-top(의료진 소개)
+* sub01-03-top
 **************************************************/
 .sub01-03-top-view { background:url("../img/sub01_03_img01.jpg")50% 50%/cover no-repeat; }
 .sub01-03-top-view-bg { background:url("../img/sub01_03_img01.jpg") 50% 50% / cover no-repeat; }
@@ -1583,12 +1582,12 @@
 .sect-doctors .swiper-slide .titlebox .subtit { margin-bottom:.25rem; }
 .sect-doctors .swiper-slide .titlebox h2 { margin-bottom:3.75rem; }
 .sect-doctors .swiper-slide .titlebox img { width:2.5rem; height:2.5rem; transform:translateZ(0); }
-.sect-doctors .swiper-slide .titlebox h3 { font-family:'Noto Serif KR', serif; font-size:2rem; letter-spacing:-0.01em; }
+.sect-doctors .swiper-slide .titlebox h3 { font-size:2rem; letter-spacing:-0.01em; }
 .sect-doctors .swiper-slide .titlebox h3 small { font-size:1.25rem; }
 
 .sect-doctors .swiper-slide .txtbox { }
 .sect-doctors .swiper-slide .txtbox .txt01 { font-size:1.25rem; color:#000; line-height:1.6; }
-.sect-doctors .swiper-slide .txtbox .txt02 { font-size:1.25rem; color:#888; font-family:'KoPubWorldBatang', serif; font-weight:300; }
+.sect-doctors .swiper-slide .txtbox .txt02 { font-size:1.25rem; color:#888;  font-weight:300; }
 .sect-doctors .swiper-slide .txtbox .txt03 { color:#888; font-weight:300; line-height:1.8; }
 .sect-doctors .swiper-slide .txtbox p + p { margin-top:0.425rem; }
 .sect-doctors .swiper-slide .txtbox li { color:#888; font-weight:300; line-height:1.8; }

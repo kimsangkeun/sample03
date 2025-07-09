@@ -1,5 +1,5 @@
 /**************************************************
-* sub02-01-top(諛깅컲利� �쇳꽣 - �쒕뵫)
+* sub02-01-top
 **************************************************/
 .sub02-01-top-view-video { width:100vw; height:56.25vw; min-height:100vh; min-width:210vh; position:absolute; left:50%; top:50%; transform:translate(-50%, -50%); }
 
@@ -14,7 +14,7 @@
 .sub02-01-cont01 .mo-only { display:none; }
 .sub02-01-cont01 .container-cnt { padding:0 2.5rem; }
 .sub02-01-cont01 .titlebox h2 { margin-bottom:2.5rem; }
-.sub02-01-cont01 .d-frbox:before { content:"1:1"; position:absolute; right:-11%; top:-16%; opacity:0.07; color:#616161; font-size:11.75rem; font-family:'Noto Serif KR', serif; font-weight:700; }
+.sub02-01-cont01 .d-frbox:before { content:"1:1"; position:absolute; right:-11%; top:-16%; opacity:0.07; color:#616161; font-size:11.75rem; font-weight:700; }
 
 @media (max-width:1679px) {
 	.sub02-01-cont01 .d-frbox:before { right:-3%; }

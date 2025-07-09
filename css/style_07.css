@@ -1,5 +1,5 @@
 /**************************************************
-* sub08-01-top(�쇰�吏덊솚 �대━��)
+* sub08-01-top
 **************************************************/
 .sub08-01-top-view-video { width:100vw; height:56.25vw; min-height:100vh; min-width:210vh; position:absolute; left:50%; top:50%; transform:translate(-50%, -50%); }
 
@@ -180,7 +180,7 @@
 }
 
 /**************************************************
-* sub08-02-top(�꾪넗�� �쇰���)
+* sub08-02-top
 **************************************************/
 .sub08-02-top-view { background:url("../img/sub08_02_img01.jpg") 60% 50%/cover no-repeat; }
 .sub08-02-top-view-bg { background:url("../img/sub08_02_img01.jpg") 60% 50% / cover no-repeat; }
@@ -361,7 +361,7 @@
 }
 
 /**************************************************
-* sub08-03-top(嫄댁꽑)
+* sub08-03-top
 **************************************************/
 .sub08-03-top-view { background:url("../img/sub08_03_img01.jpg") 60% 50%/cover no-repeat; }
 .sub08-03-top-view-bg { background:url("../img/sub08_03_img01.jpg") 60% 50% / cover no-repeat; }
@@ -515,7 +515,7 @@
 }
 
 /**************************************************
-* sub08-04-top(�щ쭏洹�, �곕늿)
+* sub08-04-top
 **************************************************/
 .sub08-04-top-view { background:url("../img/sub08_04_img01.jpg") 60% 50%/cover no-repeat; }
 .sub08-04-top-view-bg { background:url("../img/sub08_04_img01.jpg") 60% 50% / cover no-repeat; }
@@ -655,7 +655,7 @@
 }
 
 /**************************************************
-* sub08-05-top(�먮컻�� 臾댁�)
+* sub08-05-top
 **************************************************/
 .sub08-05-top-view { background:url("../img/sub08_05_img01.jpg") 60% 50%/cover no-repeat; }
 .sub08-05-top-view-bg { background:url("../img/sub08_05_img01.jpg") 60% 50% / cover no-repeat; }
@@ -836,7 +836,7 @@
 }
 
 /**************************************************
-* sub08-06-top(愿묒튂猷� �대━��)
+* sub08-06-top
 **************************************************/
 .sub08-06-top-view { background:url("../img/sub08_06_img01.jpg") 60% 50%/cover no-repeat; }
 .sub08-06-top-view-bg { background:url("../img/sub08_06_img01.jpg") 60% 50% / cover no-repeat; }

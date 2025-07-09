@@ -1,5 +1,5 @@
 /**************************************************
-* sub06-01-top(�덈㈃�ㅺ낸 �대━��)
+* sub06-01-top
 **************************************************/
 .sub06-01-top-view-video { width:100vw; height:56.25vw; min-height:100vh; min-width:210vh; position:absolute; left:50%; top:50%; transform:translate(-50%, -50%); }
 
@@ -168,7 +168,7 @@
 }
 
 /**************************************************
-* sub06-02-top(�꾨윭 3.0)
+* sub06-02-top
 **************************************************/
 .sub06-02-top-view { background:url("../img/sub01_03_img01.jpg") 60% 50%/cover no-repeat; }
 .sub06-02-top-view-bg { background:url("../img/sub01_03_img01.jpg") 35% 50% / cover no-repeat; }
@@ -177,7 +177,7 @@
 * sub06-02-cont01
 **************************************************/
 .sub06-02-cont01 { position:relative; }
-.sub06-02-cont01:before { content:"3.0"; position:absolute; right:1%; bottom:3%; opacity:0.2; color:#fff; font-style:italic; text-shadow:-1px -1px 0 #616161, 1px -1px 0 #616161, -1px 1px 0 #616161, 1px 1px 0 #616161; font-size:11.75rem; font-family:'Noto Serif KR', serif; font-weight:700; }
+.sub06-02-cont01:before { content:"3.0"; position:absolute; right:1%; bottom:3%; opacity:0.2; color:#fff; font-style:italic; text-shadow:-1px -1px 0 #616161, 1px -1px 0 #616161, -1px 1px 0 #616161, 1px 1px 0 #616161; font-size:11.75rem; font-weight:700; }
 .sub06-02-cont01 .pc-only { display:block; }
 .sub06-02-cont01 .mo-only { display:none; }
 .sub06-02-cont01 .titlebox h1 { margin-bottom:3.75rem; }
@@ -370,7 +370,7 @@
 }
 
 /**************************************************
-* sub06-03-top(釉뚮━�щ젢)
+* sub06-03-top
 **************************************************/
 .sub06-03-top-view { background:url("../img/sub06_03_img01.jpg") 60% 50%/cover no-repeat; }
 .sub06-03-top-view-bg { background:url("../img/sub06_03_img01.jpg") 60% 50% / cover no-repeat; }
@@ -1209,7 +1209,7 @@
 }
 
 /**************************************************
-* sub-new-common-sect01  240304異붽�
+* sub-new-common-sect01  
 **************************************************/
 .sub-new-common-sect01 { position:relative; overflow:hidden; }
 
@@ -1316,7 +1316,7 @@
 }
 
 /**************************************************
-* sub06-07-top(�ㅽ궓遺��ㅽ꽣)
+* sub06-07-top
 **************************************************/
 .sub06-07-top-view { background:url("../img/sub06_07_img01.jpg") 60% 50%/cover no-repeat; }
 .sub06-07-top-view-bg { background:url("../img/sub06_07_img01.jpg") 60% 50% / cover no-repeat; }
@@ -1616,8 +1616,8 @@
 .sub06-08-top-view-bg { background:url("../img/sub01_03_img01.jpg") 60% 50% / cover no-repeat; }
 
 @media (max-width:991px) { 
-.sub06-08-top-view { background:url("../img/sub01_03_img01_m.png") 60% 50%/cover no-repeat; }
-.sub06-08-top-view-bg { background:url("../img/sub03_01_img01_m.png") 60% 50% / cover no-repeat; }
+.sub06-08-top-view { background:url("../img/sub01_03_img01_m.jpg") 60% 50%/cover no-repeat; }
+.sub06-08-top-view-bg { background:url("../img/sub01_03_img01_m.jpg") 60% 50% / cover no-repeat; }
 }
 
 /**************************************************
@@ -1821,7 +1821,7 @@
 }
 
 /**************************************************
-* sub06-09-top(�ㅼ뺄�몃씪)  240312 異붽�
+* sub06-09-top
 **************************************************/
 .sub06-09-top-view { background:url("../img/sub01_03_img01.jpg") 60% 50%/cover no-repeat; }
 .sub06-09-top-view-bg { background:url("../img/sub01_03_img01.jpg") 60% 50% / cover no-repeat; }
